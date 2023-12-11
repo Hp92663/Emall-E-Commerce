@@ -1,0 +1,59 @@
+.fix_logo {
+    height: 5rem;
+    width: 19rem;
+}
+
+.fix_footer_logo {
+    height: 8rem;
+    width: 8rem;
+
+}
+
+.copyright {
+    align-items: center;
+    text-align: center;
+}
+
+.fix_login_logo {
+    margin-top: 1rem;
+    margin-left: 8rem;
+    height: 10rem;
+    width: 10rem;
+}
+
+.b_box {
+    border: 1px solid blue;
+}
+
+.f_box {
+    border: 2px solid red;
+
+}
+
+.p_info {
+    font-size: 40px;
+    text-align: center;
+    text-decoration: black;
+    font-style: normal;
+}
+
+.admin_hero_box1 {
+    margin-left: 8rem;
+}
+
+.admin_hero_box2 {
+    margin-right: 8rem;
+}
+
+.fix_header {
+    text-align: center;
+}
+
+.product_card_fix {
+    border: 1px solid blue;
+}
+
+
+.card_detail_fix {
+    border: 1px solid black;
+}
